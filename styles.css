@@ -74,7 +74,8 @@ button:active {
 }
 
 .history {
-    display: flex;
+    display:flex;
+    flex-direction: column;
     justify-content: right;
     align-items: right;
     height: 400px;
